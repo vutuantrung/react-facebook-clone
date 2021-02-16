@@ -3,7 +3,7 @@
 ## General info
 This is a small facebook clone project
 
-![alt text](https://github.com/vutuantrung/react-facebook-clone/tree/main/src/assets/images/imageBackground.jpg)
+![image](https://raw.githubusercontent.com/vutuantrung/react-facebook-clone/main/src/assets/images/imageBackground.jpg)
 	
 ## Technologies
 Project is created with:
